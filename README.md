@@ -1,8 +1,8 @@
 # jpa02-rmarangoly
 
-Repo: https://ucsb-cs156-w24/jpa02-rmarangoly
+Repo: https://github.com/ucsb-cs156-w24/jpa02-rmarangoly/
 
-Deployed at: https://jpa02-rmarangoly.dokku-04.cs.ucsb.edu
+Deployed at: http://http://jpa02-rmarangoly.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
