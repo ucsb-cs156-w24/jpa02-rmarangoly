@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-rmarangoly/
 
-Deployed at: http://http://jpa02-rmarangoly.dokku-04.cs.ucsb.edu/
+Deployed at: http://jpa02-rmarangoly.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
